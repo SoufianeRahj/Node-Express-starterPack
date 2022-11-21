@@ -15,5 +15,6 @@ The security of the application is managed through the following libs:
 
 To run the application, first install all the dependencies throught: 
 - npm intall
+
 then run the start script:
 - npm run start
