@@ -14,6 +14,6 @@ The security of the application is managed through the following libs:
 - express-rate-limit: for rate limiting directly on the express application
 
 To run the application, first install all the dependencies throught: 
-npm intall
+- npm intall
 then run the start script:
-npm run start
+- npm run start
